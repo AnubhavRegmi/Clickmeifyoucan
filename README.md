@@ -1,1 +1,1 @@
-Unclickable button
+Unclickable yes option
